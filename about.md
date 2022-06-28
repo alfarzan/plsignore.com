@@ -2,6 +2,7 @@
 layout: page
 title: About
 sidebar_link: true
+published: false
 ---
 
 <p class="message">
