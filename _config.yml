@@ -2,6 +2,8 @@
 markdown:         kramdown
 highlighter:      rouge
 
+remote_theme: fongandrew/hydeout  # adding as per instructions here https://github.com/fongandrew/hydeout
+
 # Setup
 title:            Hydeout
 tagline:          'A Jekyll theme'
