@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rani Moran: Algorithm designer to experimental psychologist"
-categories: [ Opinions ]
+categories: [ Interviews ]
 published: true
 ---
 
