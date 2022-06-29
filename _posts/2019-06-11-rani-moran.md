@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "Rani Moran: Algorithm designer to experimental psychologist"
-categories:
-		- Interviews
+<!-- author: Ali -->
+categories: [ informational interview ]
 image: assets/images/ranimoran.jpg
+<!-- rating: 3 -->
+featured: false
+comments: false
 published: true
 ---
 
