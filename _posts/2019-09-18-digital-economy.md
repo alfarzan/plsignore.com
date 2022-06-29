@@ -1,12 +1,7 @@
 ---
 layout: post
 title:  "UK porn bill: Throwing our privacy out with the bathwater"
-categories:
-		- Opinions
-image: assets/images/ukporn.jpg
-featured: false
-comments: false
-hidden: false
+categories: [ Opinions ]
 published: true
 ---
 

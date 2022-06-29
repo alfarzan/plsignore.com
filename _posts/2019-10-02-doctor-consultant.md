@@ -1,12 +1,8 @@
 ---
 layout: post
 title:  "John Doe: Junior doctor to management consultant"
-categories:
-		- Interviews
-image: assets/images/josh.png
-featured: false
-comments: false
-published: True
+categories: [ Interviews ]
+published: true
 ---
 
 
