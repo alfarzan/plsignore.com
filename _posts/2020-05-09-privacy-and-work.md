@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Do we really need employee monitoring?"
-categories: [ opinion ]
+categories:
+		- Opinions
 image: assets/images/privacy_at_work.jpg
 featured: false
 comments: false

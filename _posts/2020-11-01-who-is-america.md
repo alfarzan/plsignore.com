@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Who is America?"
-categories: [ opinion ]
+categories:
+		- Opinions
 image: assets/images/twoAmericas.jpg
 featured: false
 comments: false
