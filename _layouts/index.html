@@ -14,8 +14,8 @@ layout: default
         {{ post.title }}
       </a>
     </h2>
-    {% include post-meta.html post=post %}
-<!-- 
+<!--     {% include post-meta.html post=post %}
+
     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}
@@ -29,12 +29,12 @@ layout: default
       {% endcapture %}
       {% capture excerpt_words %}
         {{ post.excerpt | number_of_words }}
-      {% endcapture %} -->
+      {% endcapture %}
 
       {% if content_words != excerpt_words %}
         <a href="{{ post.url | relative_url }}">More &hellip;</a>
       {% endif %}
-    {% endif %}
+    {% endif %} -->
   </article>
   {% endfor %}
 
