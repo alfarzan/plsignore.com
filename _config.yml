@@ -4,9 +4,9 @@ highlighter:      rouge
 remote_theme: fongandrew/hydeout  # adding as per instructions here https://github.com/fongandrew/hydeout
 
 # Setup
-title:            Please Ignore
+title:            Ali's blog
 tagline:          'Opinions, Essays, Hobbies.'
-description:      'Opinions, Essays, Hobbies.'
+description:      'please ignore'
 # url:              https://fongandrew.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
