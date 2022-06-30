@@ -35,11 +35,10 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
-  align-items: top;
 
   .site-title {
     font-family: 'Abril Fatface', serif;
-    font-size: $title-font-size;
+    font-size: $large-font-size;
     font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
