@@ -35,7 +35,6 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
-  align-items: top;
 
   .site-title {
     font-family: 'Abril Fatface', serif;
@@ -52,7 +51,6 @@ body {
   background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
-  align-items: top;
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -60,12 +58,12 @@ body {
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
+  align-items: top;
   
 
   > .content {
     flex-grow: 1;
     padding-bottom: $section-spacing * 2;
-    align-items: top;
   }
 }
 
