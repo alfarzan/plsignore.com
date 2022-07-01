@@ -4,9 +4,9 @@ highlighter:      rouge
 remote_theme: fongandrew/hydeout  # adding as per instructions here https://github.com/fongandrew/hydeout
 
 # Setup
-title:            Ali's blog
+title:            please ignore
 tagline:          'Opinions, Essays, Hobbies.'
-description:      'please ignore'
+description:      "Ali's blog"
 # url:              https://fongandrew.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
