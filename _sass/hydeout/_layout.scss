@@ -74,8 +74,7 @@ body {
 
 // Hide secondary nav content in sidebar
 // Hide lead paragraph in sidebar
-#sidebar {
-  min-height: 50vh; 
+#sidebar { 
   header ~ *,
   header ~ nav,
   p.lead {
@@ -111,7 +110,7 @@ body {
 
   // Center sidebar content
   text-align: center;
-
+min-height: 50vh;
 
   // Bigger title
   .site-title {
