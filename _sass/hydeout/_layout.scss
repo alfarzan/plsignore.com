@@ -266,6 +266,8 @@ body {
 
   &.icon {
     text-decoration: none;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
   }
 }
 
@@ -307,6 +309,8 @@ body {
   display: inline-block;
   font-size: 1.5rem;
   margin: 0 0.25em;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
 }
 
 @media print {
