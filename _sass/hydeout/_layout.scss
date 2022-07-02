@@ -109,8 +109,7 @@ body {
 
   // Center sidebar content
   text-align: center;
-  align-items: center;
-  justify-content: center;  
+
 
   // Bigger title
   .site-title {
@@ -130,7 +129,7 @@ body {
   // Slightly more bottom padding to compensate for heading not match 100% of
   // line-height on top
   > *:last-child {
-    margin-bottom: 0rem;
+    margin-bottom: 0.5rem;
   }
 }
 
@@ -336,8 +335,3 @@ body {
   Custom styling
 ----------------------------------------------------------- */
 
-.center img {        
-  display:flex;
-  margin-left:auto;
-  margin-right:auto;
-}
