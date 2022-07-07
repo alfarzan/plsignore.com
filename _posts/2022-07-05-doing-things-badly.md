@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "The value of doing things badly"
+categories: [ Essays ]
+published: True
+---
+Doing things badly is often better than not doing things at all, for the same reason that breathing badly is better than not breathing at all. At the same time, if I were to include all my unfinished projects, I see I spend a lot more time writing to-do lists, than doing the things on those lists. This is because I want to do things well, and that needs research and planning. Once I've researched and get an accurate idea of what it takes to achieve perfection, I might judge the project as too much work and abandon it. Yet, as I stare into the historical graveyard of all the things I have not done, I get an uneasy feeling in my stomach. 
+
+There are some rare, high-risk cases where anything less than perfect is really unacceptable. These are typically situations where a mistake can lead to irreversible failure. Free climbing a cliff, designing the emergency shutdown system in a nuclear plant, and military action against another country are all examples of this. Identifying these cases is not very difficult, just imagine you have failed totally and consider whether you can try again with minimal consequences. Outside of this category of activity, doing things badly is highly valuable. 
+
+The value of doing things badly is tied closely to the value we want to extract from doing things at all. The concept of _"value"_ really has two parts here: usefulness of outcome and, usefulness of experience. Some activities are very useful experiences without a valuable outcome (_e.g., learning that fire is hot and can burn you_), while others can have a valuable outcome without being useful as a standalone experience (_e.g., drinking water when thirsty_). In reality these two dimensions are usually intertwined and while we understand this connection conceptually, some of us seem blind to it when it comes to planning and executing our projects.
+
+Outcomes tend to be king. Many focus exclusively on the value they expect from achieving an outcome. Outcomes are easier to communicate, they are often more measurable, usually form more impressive soundbites, and so, tend to serve as better internal KPIs[^1] for the average person. A completed DIY shed, homegrown tomatoes, visible abs, a good P&L statement[^2], and a signed marriage certificate are all examples of outcomes. Unsurprisingly, most metrics of success are also outcomes. 
+
+Because of this outcome-driven mental framework, we tend to judge activities based on quality of outcome alone, rather than usefulness of experience. This can be very misguided. To see why, consider that as long as _an outcome_ is achieved it will be somewhere between _"totally perfect"_ and _"totally useless"_. The important questions are: How much more valuable is a perfect outcome than a regular one? How much more valuable is a sub-standard outcome compared to nothing? The answer to these two is _"Not much"_ and _"Very"_ in most cases. Getting a perfect haircut is not that much better than a regular haircut, while having a badly prepared meal can be infinitely more valuable than no meal. 
+
+Now when you also consider the value of experience, the equation tilts. If you are at risk of doing something badly, it means you're not excellent at doing it. Here, doing something, even badly, doubles up as experience which you can use to learn -- think how useless the world would be if babies, notoriously bad at walking, didn’t attempt to walk at all. This fact is even more important if **_nobody_** is excellent at doing this thing. In that case, the experience you gain can contribute significantly to how others do things[^3]. While ignoring the value of experience can lead to a skewed assessment of what should be done (_e.g., writing infinitely nested to-do lists)_.
+
+Is it possible to get more comfortable with doing things badly? I think so. You could either commit to doing _everything_ badly barring the explicitly _high-risk_ or, you could couple experiences to outcomes. You do this by primarily keeping track of experiences rather than outcomes. Effectively this treats experiences as binary mini-outcomes where success is completing an experience. In this way, you end up constantly rewarded as you successfully complete experiences all the while actually doing things, rather than planning to do them. As an added bonus, you end up with the crazy situation where, doing something badly more often starts to feel better than doing it badly once. 
+
+[^1]: Key performance indicator
+[^2]: Profit and loss statement. A measure for the performance of a business. 
+[^3]: This is one of the reasons why it's so important for pioneers in any field to write down their experiences.
+
