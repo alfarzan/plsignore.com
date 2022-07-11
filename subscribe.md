@@ -1,9 +1,9 @@
 ---
 layout: page
-title: subscribe
+title: Subscribe & get in touch
 ---
 
-I send out updates everything I write something new. You can sign up below to receive these updates.
+I send out updates everytime I write something new. You can sign up below to receive these updates.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
@@ -45,7 +45,8 @@ I send out updates everything I write something new. You can sign up below to re
 </div>
 <!--End mc_embed_signup-->
 
-Alternatively, you can [email me here](mailto:ali@plsignore.com). 
+Alternatively, you can [email me here](mailto:ali@plsignore.com).
+ 
 If you're looking for an RSS feed you can find it here <a id="RSS feed"
      class="icon" title="RSS feed" aria-label="RSS feed"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
