@@ -7,7 +7,7 @@ sidebar_sort_order: 4
 ---
 
 
-I have a PhD in Computer Science from Imperial College London, studied Mathematics at Cambridge and worked as a physicist at CERN prior to that.  
+I have a PhD in Computer Science from Imperial College London, studied Mathematics at Cambridge and worked as a Physicist at CERN prior to that.  
 
 Today I'm a management consultant, writer, and scientist. 
 
