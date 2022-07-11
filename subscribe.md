@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Subscribe
+layout: page
+title: subscribe
 ---
 
 I send out updates everything I write something new. You can sign up below to receive these updates.
