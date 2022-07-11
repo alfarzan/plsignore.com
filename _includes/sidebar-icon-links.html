@@ -1,5 +1,5 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
+<!--   {% if site.hydeout.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
        href="{{ site.hydeout.repo }}">
@@ -10,9 +10,9 @@
        href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
       {% include svg/download.svg %}
     </a>
-  {% endif %}
+  {% endif %} -->
 
-  <a id="subscribe-link"
+  <a id="RSS feed"
      class="icon" title="RSS feed" aria-label="RSS feed"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
