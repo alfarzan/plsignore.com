@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Subscribe & get in touch
+title: Subscribe
+sidebar_link: true
+published: true
+sidebar_sort_order: 5
 ---
 
 I send out updates everytime I write something new. You can sign up below to receive these updates.
@@ -46,7 +49,7 @@ I send out updates everytime I write something new. You can sign up below to rec
 <!--End mc_embed_signup-->
 
 Alternatively, you can [email me here](mailto:ali@plsignore.com).
- 
+
 If you're looking for an RSS feed you can find it here <a id="RSS feed"
      class="icon" title="RSS feed" aria-label="RSS feed"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
