@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 published: true
-sidebar_sort_order: 4
+sidebar_sort_order: 1
 ---
 
 
