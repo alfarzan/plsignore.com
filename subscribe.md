@@ -3,7 +3,7 @@ layout: page
 title: Subscribe
 sidebar_link: true
 published: true
-sidebar_sort_order: 5
+sidebar_sort_order: 1
 ---
 
 I send out updates everytime I write something new. You can sign up below to receive these updates.
