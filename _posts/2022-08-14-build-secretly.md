@@ -2,7 +2,7 @@
 layout: post
 title:  "Build secretly"
 categories: [ Essays ]
-published: False
+published: True
 ---
 
 For most of the founders I find in my circle, the urge to talk about what they are building is almost as strong as the urge to keep it vague and secretive. In contrast, I like to talk about whatever I'm working on. In fact, this open culture is a necessary part of my problem-solving process - I need people to bounce ideas off of, all in spite of the advice of my most successful friends and colleagues. I’m starting to think this approach is wrong. There is inherent value in building secretly[^1] .
