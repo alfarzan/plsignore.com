@@ -19,6 +19,8 @@ So, is it necessary to fit into this stereotype in order to build successfully? 
 
 Over time, as the product is built up more and more, the historical energy put into it acts as a cap on washout probability to the point that secrecy is not no longer needed -- you're already immovable if you're heavily invested in the venture, secrecy won't buy you much more. Until then, building secretly unlocks the insights of others selectively while still making sure you don't get dissuaded prematurely. Of course it doesn't hurt to minimise competitive risk along the way [^6]. 
 
+_Thanks to Radhika Ravi for feedback on early drafts of this essay._
+
 [^1]: Here I am primarily focussing on those who are building something new rather than selling their time as experts. Think founders, academics, and traders, Vs. pilots, surgeons, and pianists.
 
 [^2]: Linux is a family of open-source operating systems first released on September 17, 1991. It is built collectively by a global team of volunteers. Unlike Apple OS releases and Windows, it is entirely free and the basis of many popular services on the internet. 
