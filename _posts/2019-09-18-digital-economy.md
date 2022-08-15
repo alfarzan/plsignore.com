@@ -5,7 +5,8 @@ categories: [ Opinions ]
 published: true
 ---
 
-![My helpful screenshot](/assets/images/DALLE-privacy.png)
+![](/assets/images/DALLE-privacy.png)
+*Image generated with DALLE-2*
 
 Making sure the children in our society do not regularly stumble upon damaging material while browsing the internet, is something we can all get behind. Our UK government agrees. Back in 2016, a study commissioned by the National Society for the Prevention of Cruelty to Children (NSPCC)<sup><sup>[shorter initialism pending]</sup></sup> and the Office of the Children's Commissioner (OCC) [surveyed](https://learning.nspcc.org.uk/research-resources/2016/i-wasn-t-sure-it-was-normal-to-watch-it/ 
 https://learning.nspcc.org.uk/media/1187/mdx-nspcc-occ-pornography-report.pdf) 1001 children and young teens about their experience of internet pornography. The survey suggested that about half had seen pornography online, with the first exposure being most likely accidental.
