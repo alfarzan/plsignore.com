@@ -3,6 +3,7 @@ layout: post
 title:  "The value of doing things badly"
 categories: [ Essays ]
 published: True
+permalink: /:title/
 ---
 Doing things badly is often better than not doing things at all, for the same reason that breathing badly is better than not breathing at all. At the same time, if I were to include all my unfinished projects, I see I spend a lot more time writing to-do lists, than doing the things on those lists. This is because I want to do things well, and that needs research and planning. Once I've researched and get an accurate idea of what it takes to achieve perfection, I might judge the project as too much work and abandon it. Yet, as I stare into the historical graveyard of all the things I have not done, I get an uneasy feeling in my stomach.
 
