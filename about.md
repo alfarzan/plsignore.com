@@ -16,4 +16,8 @@ This website exists mainly to test, challenge, and cement my (and hopefully your
 
 I write about what interests me. I'm Ali and this is my blog. 
 
+In my free time I also help some companies and organisations with advisory help. Get in touch if this is you. farzanehfar dot ali at gmail dot com
+
+
+
 
